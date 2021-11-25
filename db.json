@@ -1,0 +1,127 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "Anish ",
+      "lastName": "",
+      "email": "Wag@123",
+      "mobile": 9818720887,
+      "salary": ""
+    },
+    {
+      "id": 3,
+      "firstName": "Amit",
+      "lastName": "",
+      "email": "Wag@123",
+      "mobile": 9818720887,
+      "salary": ""
+    },
+    {
+      "id": 4,
+      "firstName": "test",
+      "lastName": "",
+      "email": "Wag@123",
+      "mobile": 9818720887,
+      "salary": ""
+    },
+    {
+      "id": 5,
+      "firstName": "test",
+      "lastName": "",
+      "email": "Wag@123",
+      "mobile": 9818720887,
+      "salary": ""
+    },
+    {
+      "id": 6,
+      "firstName": "test",
+      "lastName": "",
+      "email": "Wag@123",
+      "mobile": 1232131232,
+      "salary": ""
+    },
+    {
+      "id": 7,
+      "firstName": "test",
+      "lastName": "",
+      "email": "Wag@123",
+      "mobile": 1232131232,
+      "salary": ""
+    },
+    {
+      "id": 8,
+      "firstName": "aryan",
+      "lastName": "",
+      "email": "ary@12398187",
+      "mobile": 982828283,
+      "salary": ""
+    },
+    {
+      "id": 9,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullName": "Aryan Karki",
+      "mobileNumber": 9818720887,
+      "emailAddress": "abc@123",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "fullName": "Anish Wagle ",
+      "mobileNumber": 9818720887,
+      "emailAddress": "Anish@123",
+      "password": "Anish",
+      "id": 2
+    },
+    {
+      "fullName": "Ram",
+      "mobileNumber": 9818720887,
+      "emailAddress": "Ram@123.com",
+      "password": "Ram",
+      "id": 3
+    },
+    {
+      "fullName": "Hari",
+      "mobileNumber": 77777777777,
+      "emailAddress": "Hari@123.com",
+      "password": "hari",
+      "id": 4
+    },
+    {
+      "fullName": "SIta",
+      "mobileNumber": 8888888888888,
+      "emailAddress": "Sita@gmail.com",
+      "password": "Sita",
+      "id": 5
+    },
+    {
+      "fullName": "Ananta",
+      "mobileNumber": 1111111111,
+      "emailAddress": "Ananta@123",
+      "password": "Ram",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
